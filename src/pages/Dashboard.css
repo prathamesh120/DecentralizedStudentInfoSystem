@@ -1,0 +1,14 @@
+.Dashboard{
+    background-color: rgb(231, 230, 230);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-bottom: 50%;    
+}
+
+
+
+#Dash{
+    
+    background-color: rgb(157, 135, 102);
+    padding: 4px 4px 4px 4px;
+}

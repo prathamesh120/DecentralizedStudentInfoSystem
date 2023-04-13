@@ -1,0 +1,56 @@
+.LoginForm{
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: rgb(53, 55, 53);
+    display: inline-block;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 5%;
+    
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Lform{
+    width: 400px;
+  }
+
+  input {
+    padding: 3px;
+    box-shadow: 3px 3px 5px rgb(57, 24, 24);
+    border-radius: 5px;
+    padding-top: 7spx;
+    padding-bottom: 7px;
+    font-size: 14px;
+    font-weight: 600;
+    width: 300px;
+    float: right;
+  }
+
+  
+  label {
+    color: #faf9f9;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 10px;
+    float: left;
+  
+  }
+  label:after { content: ": " }
+
+  #Lform{
+    width: 500px;
+  }
+
+  #button {
+    padding: 10px;
+    border: 1px solid gray;
+    background-color:#2bf724;
+    border-radius: 5px;
+    font: inherit;
+    font-weight: bolder;
+  }
